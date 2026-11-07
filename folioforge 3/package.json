@@ -1,0 +1,7 @@
+{
+  "name": "folioforge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI portfolio builder that publishes to Netlify and shares a link",
+  "engines": { "node": ">=18" }
+}
